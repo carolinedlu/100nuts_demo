@@ -1,8 +1,5 @@
 import streamlit as st
-from PIL import Image
 
 st.balloons()
-st.markdown('**Hello EPFL!**')
-# image = Image.open('EPFL.png')
-# st.image(image)
+st.markdown('**Hello 100Nuts!**')
 st.markdown('We are very excited to be working with you.')
